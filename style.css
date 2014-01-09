@@ -1,0 +1,35 @@
+body{
+	background-color: #484848;
+	text-align: left;
+}
+p{
+	color:#3399FF;font-family: Trebuchet MS
+}
+.header{
+	color:#FF6600;
+	font-family: Trebuchet MS;
+	font-size: 28px;
+}
+img{
+	float:left;
+	background-color: #D8D8D8;
+	height: 150px;
+	border:2px solid;
+	border-color: #CC9900;
+	border-radius:25px;
+}
+div{
+	border:2px solid;
+	border-color: #999999;
+	border-radius:25px;
+	float:left;
+	background-color: #E0E0E0;
+}
+.menu{color:#3399FF;
+	font-family: Trebuchet MS;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+	color:#3399FF;
+}
